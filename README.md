@@ -2,14 +2,14 @@
 
 A collection of Python-based CLI tools for auditing and managing AWS network infrastructure.
 
-## 🎯 Purpose
+## Purpose
 
 These tools help DevOps engineers and Cloud Architects:
 - Audit VPC configurations across AWS accounts
 - Classify subnets as public or private
 - Generate network inventory reports
 
-## 🛠️ Tools Included
+## Tools Included
 
 ### 1. VPC Inventory Tool (`vpc_inventory.py`)
 
